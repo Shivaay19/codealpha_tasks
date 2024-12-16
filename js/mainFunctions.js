@@ -1,5 +1,3 @@
-//Mindula Dilthushan
-//Ax Age Calculate
 
 let current_date= document.getElementById("current_date");
 let dateOfBirth = document.querySelector("#birthday");
